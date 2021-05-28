@@ -1,0 +1,124 @@
+ .h1{
+  background-color:black;
+  
+}
+.One{
+  display: flex;
+  flex-direction: row;
+  color:coral;
+  font-size: medium;
+}
+.Two{
+  display: flex;
+  flex-direction:row-reverse;
+  color: chocolate;
+  font-size: small;
+
+}
+.name{
+  background-color: black;
+  color: coral;
+ 
+  font-family: Algerian;
+  font-size: xx-large;
+  padding: 50px; 
+}
+
+.Header{
+  display: flex;
+  flex-direction: row;
+  background-color:black;
+  color :blanchedalmond;
+  text-decoration: none;
+  
+}
+.Header > div {
+margin: 10px;
+padding: 10px;
+font-size: 20px;
+
+}
+.Nav:hover{
+  color:coral;
+  background-color:coral;
+ 
+ padding: 10px;
+}
+.text1{
+  background-color: black;
+}
+
+.card1:hover{
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  background-color:lightslategrey;
+  color:black;
+ }
+.ih  :hover{
+  margin: 5px;
+  padding: 5px;
+  background-color:lawngreen;
+
+ }
+ .table{
+   text-align: center;
+ }
+ .Footer{
+   background-color:black;
+   color:pink;
+ }
+ .f2 > div {
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  
+  }
+  
+ .f2{
+   display: flex;
+   flex-direction:row-reverse;
+   background-color: burlywood;
+   color:blanchedalmond;
+ }
+ .f2 :hover{
+  margin: 5px;
+  padding: 5px;
+  background-color:white;
+  color:black;
+ }
+ .mail{
+  display: flex;
+  flex-direction:row;
+  color: black;
+ }
+ .imageh>img:hover{
+  margin: 10px;
+  padding: 10px;
+  background-color: palevioletred;
+ 
+ }
+ .pnav{
+   display: flex;
+   flex-direction:column;
+ 
+ }
+ .pnav:hover{
+ background-color: silver;
+  color:purple;
+  text-decoration: none;
+
+ }
+.about{
+  background-color:darkgray;
+  color:black;
+}
+.a1{
+  background-color: black;
+  color: chartreuse;
+}
+
+
+
+
+
